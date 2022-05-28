@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 1500000,
+      "id": 1,
+      "title": "Switch",
+      "thumbnailUrl": "/img/nintendoswitch.jpg"
+    },
+    {
+      "precio": 1100000,
+      "id": 2,
+      "title": "Switch Lite",
+      "thumbnailUrl": "/img/nintendo_switch_lite.jpg"
+    },
+    {
+      "precio": 800000,
+      "id": 3,
+      "title": "Xbox One",
+      "thumbnailUrl": "/img/xbox-one.jpg"
+    },
+    {
+      "precio": 4500000,
+      "id": 4,
+      "title": "X. Series",
+      "thumbnailUrl": "/img/xboxseries.jpg"
+    },
+    {
+      "precio": 1200000,
+      "id": 5,
+      "title": "PS4",
+      "thumbnailUrl": "/img/ps4.jpg"
+    },
+    {
+      "precio": 5000000,
+      "id": 6,
+      "title": "PS5",
+      "thumbnailUrl": "/img/ps5.jpg"
+    }
+  ]

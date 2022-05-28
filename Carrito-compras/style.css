@@ -1,0 +1,25 @@
+body{
+    /*background: linear-gradient(to bottom, rgb(247, 198, 243) 10%, rgb(207, 196, 182) 30%, rgb(231, 210, 227) 60%);
+    */
+    background-image: url(/img/background24.jpg);
+    color:rgb(231, 227, 227);
+    font-weight: bolder;
+}
+
+.table{
+    color: rgb(255, 255, 255);;
+}
+
+.card-img-top:hover{
+    transition: 0.1s;
+    transform: scale(1.2);
+
+}
+
+.btn-dark{
+    background-color: rgb(38, 146, 47);
+}
+
+.card-img-top:hover {filter: saturate(300%);}
+
+.btn-dark:hover{filter: saturate(500%);}
